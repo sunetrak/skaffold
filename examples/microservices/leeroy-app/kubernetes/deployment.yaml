@@ -32,4 +32,4 @@ spec:
         - name: leeroy-app
           image: leeroy-app
           ports:
-           - containerPort: 50051
+            - containerPort: 50051
